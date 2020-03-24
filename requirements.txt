@@ -111,7 +111,7 @@ spacy==2.2.3
 spicy==0.16.0
 srsly==0.2.0
 tensorboard==1.13.1
-tensorflow==1.13.2
+tensorflow==1.15.2
 tensorflow-estimator==1.13.0
 termcolor==1.1.0
 terminado==0.8.2
