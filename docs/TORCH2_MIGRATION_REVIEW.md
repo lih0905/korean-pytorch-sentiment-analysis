@@ -110,4 +110,4 @@ def collate_batch(batch, pad_id=1):
 ## 6) 이번 브랜치에서 한 일
 
 - 레포를 훑어보고 최신화 시 깨지는 지점을 문서화했습니다.
-- 실제 노트북 대규모 수정은 범위가 커서, 먼저 **마이그레이션 설계 문서**를 추가하는 방식으로 정리했습니다.
+- `modern/data.py`, `modern/train_baseline.py`로 torchtext 비의존 데이터/학습 파이프라인 초안을 추가했습니다.
