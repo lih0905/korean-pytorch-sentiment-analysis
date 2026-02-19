@@ -11,3 +11,10 @@ Ben Trevett(@bentrevett)의 [감정 분석 tutorial](https://github.com/bentreve
 >  * konlpy==0.5.1
 >  * transformers==2.5.1
 >  * pandas==0.25.2
+
+
+## 최신 버전 전환 검토
+
+최신 PyTorch/Transformers 기준으로 이 튜토리얼을 업데이트할 때 필요한 변경점은 아래 문서에 정리했습니다.
+
+- [Torch2 마이그레이션 검토 문서](docs/TORCH2_MIGRATION_REVIEW.md)
